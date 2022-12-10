@@ -1,7 +1,6 @@
 # Table of contents
 
 * [NFT-Proland](README.md)
-* [Page 1](page-1.md)
 * [Penafian](penafian.md)
 * [Ringkasan Bisnis](ringkasan-bisnis.md)
 * [Tentang Cryptocurrency & NFT](tentang-cryptocurrency-and-nft.md)
