@@ -12,10 +12,10 @@ coverY: 0
 **NFT-Proland** is the #1 Blockchain-based Game Changer for Real Estate Solution
 {% endhint %}
 
-Kami yakin bahwa teknologi blockhain adalah akar dari solusi yang dapat merubah industri global dengan skala besar dan berkelangsungan, termasuk industri real estat. “NFT-Proland” adalah pengubah permainan berbasis teknologi blockchain untuk solusi real estate.
+We believe that blockchain technology is at the epicentre of solutions capable of transforming global industries on a mass scale and in a sustainable manner, including the real estate industry. “NFT-Proland” is the #1 Blockchain-based Game Changer for Real Estate Solution
 
-Dengan bertambahnya pengguna dan pemain crypto di Indonesia, kami melihat potensi ini menjadi pintu masuk untuk membuat NPL Token.
+With the growing number of crypto users and players in Indonesia, we see this as a good foundation for developing NPL Tokens.
 
-NFT-Proland adalah anak perusahaan dari Xhyre yang berpusat di Level 18, 40 Bank Street, Canary Wharf, London E14 5NR, England. NFT-Proland membuat NPL Token dengan jumlah suplai terbatas hanya 15.000.000 yang dapat ditukar, ditransfer, dan digunakan untuk membeli aset digital berbasis real estat. NPL Token dibuat dalam jaringan BEP-20 karena memiliki kecepatan dan tingkat kepadatan rendah sehingga menghasilkan biaya gas-fee yang rendah.
+NFT-Proland is a subsidiary of Xhyre, where its headquarters are located at Level 18, 40 Bank Street, Canary Wharf, London, England E14 5NR. NFT-Proland created the NPL Token, which has a limited supply of only 15,000,000 and that can be exchanged, transferred, and used to buy real estate-based digital assets. NPL Token is created in the BEP-20 network due to its high speed and low density, which results in low gas fees.
 
-NPL Token adalah cikal bakal terbentuknya ekosistem dan jaringan blockchain dengan basis aset nyata sehingga kedepannya akan terbentuk cryptocurrency yang dipatok dengan nilai real estat.
+The NPL Token is a forerunner to the formation of a blockchain ecosystem and network with a real asset base, with the goal of creating a cryptocurrency pegged to the value of real estate in the future.
